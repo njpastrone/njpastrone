@@ -1,11 +1,14 @@
-## Hi everyone, I'm Nicolo Pastrone!
+## Hi, I'm Nicolo Pastrone
 
-Welcome to my GitHub. Lately I've been busy working on some data solutions projects for business analytics and research purposes, as well as some personal projects like a nutrition tracker. I've been mostly relying on Python (utilizing VS Code), Streamlit for front-end development, and AI tools like Claude Code to improve my efficiency. These projects were either developed for private organizations and cannot be open-sourced, or are still in development. 
+Welcome to my GitHub! Recently, I’ve been building data solutions for business analytics and economic research—alongside personal projects like a nutrition tracker. I primarily work in Python (VS Code), use Streamlit for front-end development, and often incorporate AI tools like Claude Code to boost speed and clarity in prototyping.
 
-Here's some public projects that I completed in my final year at American University:
+Many of my recent projects are either under development or built for private organizations and cannot be open-sourced. That said, here are a few public-facing projects I completed during my final year at American University:
 
 ### Featured Projects
-- ** Project 1
-- ** Project 2
+- **[health-data-analysis-app](https://github.com/njpastrone/health-data-analysis-app)** – Built an interactive Shiny app to explore global health and economic trends using panel regression and World Bank/UN data.
+- **[health-expenditure-versus-outcomes](https://github.com/njpastrone/health-expenditure-versus-outcomes)** – Conducted an econometric study in R analyzing the impact of public vs. private health spending across 23 developed countries.
 
-I'm currently looking to continue expanding my diverse toolkit and utilize my skillset to build alongside other creatives in an interesting startup project.
+I'm always looking to grow my toolkit and collaborate on meaningful data-driven products—especially at the intersection of tech, research, and social impact. Feel free to connect or reach out!
+
+[LinkedIn](https://www.linkedin.com/in/nicolo-pastrone-345120208/)
+Email: njpastrone@gmail.com
