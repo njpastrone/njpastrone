@@ -8,6 +8,6 @@ Many of my recent projects are either under development or built for private org
 - **[health-data-analysis-app](https://github.com/njpastrone/health-data-analysis-app)** – Built an interactive Shiny app to explore global health and economic trends using panel regression and World Bank/UN data.
 - **[health-expenditure-versus-outcomes](https://github.com/njpastrone/health-expenditure-versus-outcomes)** – Conducted an econometric study in R analyzing the impact of public vs. private health spending across 23 developed countries.
 
-I'm always looking to grow my toolkit and collaborate on meaningful data-driven products—especially at the intersection of tech, research, and social impact. Feel free to connect or reach out!
+I'm always looking to grow my toolkit and collaborate on meaningful data-driven products - especially at the intersection of tech, research, and social impact. Feel free to connect or reach out!
 
 [LinkedIn](https://www.linkedin.com/in/nicolo-pastrone-345120208/) | njpastrone@gmail.com
