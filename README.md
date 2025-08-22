@@ -1,12 +1,8 @@
 ## Hi, I'm Nicolo Pastrone
 
-Welcome to my GitHub! Recently, I’ve been building data solutions for business analytics and economic research - alongside personal projects like a nutrition tracker. I primarily work in Python (VS Code), use Streamlit for front-end development, and often incorporate AI tools like Claude Code to boost efficiency.
+Welcome to my GitHub! Recently, I’ve been building data solutions for business analytics and economic research - alongside personal projects like a contact management app. I primarily work in Python (VS Code), use Streamlit for front-end development, and often incorporate AI tools like Claude Code to boost efficiency.
 
-Many of my recent projects are either under development or built for private organizations and cannot be open-sourced. That said, here are a few public-facing projects I completed using R during my final year at American University:
-
-### Featured Projects
-- **[health-data-analysis-app](https://github.com/njpastrone/health-data-analysis-app)** – Built an interactive Shiny app to explore global health and economic trends using panel regression and World Bank/UN data.
-- **[health-expenditure-versus-outcomes](https://github.com/njpastrone/health-expenditure-versus-outcomes)** – Conducted an econometric study in R analyzing the impact of public vs. private health spending across 23 developed countries.
+Please check out the **[analyzing-capital-flows](https://github.com/njpastrone/analyzing-capital-flows)** repository for an example of my recent professional work as a research assistant, or view the **[kinect app](https://github.com/njpastrone/kinect)** to see one of my personal projects, a contact management app. 
 
 I'm always looking to grow my toolkit and collaborate on meaningful data-driven products - especially at the intersection of tech, research, and social impact. Feel free to connect or reach out!
 
