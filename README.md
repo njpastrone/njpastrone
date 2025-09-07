@@ -6,4 +6,4 @@ Please check out the **[analyzing-capital-flows](https://github.com/njpastrone/a
 
 I'm always looking to grow my toolkit and collaborate on meaningful data-driven products - especially at the intersection of tech, research, and social impact. Feel free to connect or reach out!
 
-[LinkedIn](https://www.linkedin.com/in/nicolo-pastrone-345120208/) | njpastrone@gmail.com
+[LinkedIn](https://www.linkedin.com/in/nicolo-pastrone-345120208/) | njpastrone@gmail.com | [Full Portfolio](https://njpastrone.github.io/)
