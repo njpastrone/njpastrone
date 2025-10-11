@@ -11,4 +11,6 @@ Streamlit app that streamlined pricing data pipeline for a small business, cutti
 ### [Analyzing Capital Flows Across Currency Regimes](https://github.com/njpastrone/analyzing-capital-flows)
 Econometric analysis and interactive app built for Yale economist evaluating Iceland's potential Euro adoption.
 
+**More Information**
+
 [Portfolio](https://njpastrone.github.io/) | [LinkedIn](https://www.linkedin.com/in/nicolo-pastrone-345120208/) | [Resume](https://drive.google.com/file/d/1i-IOMENw3-_YUksmOD_kx-agIzmAJbzf/view?usp=sharing) | njpastrone@gmail.com
