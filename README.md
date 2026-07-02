@@ -1,4 +1,6 @@
-Data scientist and analytics engineer experienced in building scalable data pipelines and ML-powered applications. Focused on delivering production-grade automation systems with measurable business impact.
+GTM Engineer building revenue intelligence systems: Python, TypeScript/React, FastAPI, Claude AI. Currently focused on production platforms for sales teams.
+
+My primary work — a full-stack revenue intelligence platform used daily by an entire sales team — is proprietary. The projects below are from earlier data science and consulting work and reflect the same build-from-scratch approach.
 
 ## Featured Projects
 
@@ -16,4 +18,4 @@ Econometric analysis tool built for Yale economist evaluating Iceland's potentia
 
 ## More Information
 
-[Portfolio](https://njpastrone.github.io/) | [LinkedIn](https://www.linkedin.com/in/nicolo-pastrone-345120208/) | [Resume](https://drive.google.com/file/d/1mr3uh9INYFe1qNLvbI7SGaFq0_zdatWP/view?usp=drive_link) | njpastrone@gmail.com | +1-408-455-1114
+[Portfolio](https://njpastrone.github.io/) | [LinkedIn](https://www.linkedin.com/in/nicolo-pastrone-345120208/) | njpastrone@gmail.com | +1-408-455-1114
