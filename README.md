@@ -16,6 +16,11 @@ Full-stack TypeScript relationship management app with automated reminders and e
 ### [Analyzing Capital Flows](https://github.com/njpastrone/analyzing-capital-flows)
 Econometric analysis tool built for Yale economist evaluating Iceland's potential Euro adoption.
 
+## Recent Tinkering
+
+### [recap](https://github.com/njpastrone/recap)
+Small CLI I built recently — scans your git repos for recent branch activity and pipes the context to Claude Code for an AI-powered "here's where you left off" briefing.
+
 ## More Information
 
 [Portfolio](https://njpastrone.github.io/) | [LinkedIn](https://www.linkedin.com/in/nicolo-pastrone-345120208/) | njpastrone@gmail.com | +1-408-455-1114
