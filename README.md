@@ -1,26 +1,18 @@
-GTM Engineer building revenue intelligence systems: Python, TypeScript/React, FastAPI, Claude AI. Currently focused on production platforms for sales teams.
+I build business intelligence and AI tools for an investor relations firm.
 
-My primary work — a full-stack revenue intelligence platform used daily by an entire sales team — is proprietary. The projects below are from earlier data science and consulting work and reflect the same build-from-scratch approach.
+Outside of work I build small apps and automation for personal projects, and the occasional CLI or workflow tool for my own use. Those are usually works in progress.
 
-## Featured Projects
-
-### [Investor Sentiment Tracker](https://github.com/njpastrone/investor-sentiment-tracker)
-AI-powered financial sentiment analysis dashboard using Claude 3.5 Haiku to monitor real-time media sentiment for major tech stocks.
-
-### [Pricing Data Solution](https://github.com/njpastrone/generic-pricing-data-solution)
-Production automation system for artisan social enterprise that reduced operational processing time by 80%.
-
-### [Kinect: Stay Connected](https://github.com/njpastrone/kinect)
-Full-stack TypeScript relationship management app with automated reminders and email notifications.
-
-### [Analyzing Capital Flows](https://github.com/njpastrone/analyzing-capital-flows)
-Econometric analysis tool built for Yale economist evaluating Iceland's potential Euro adoption.
-
-## Recent Tinkering
+## Tools
 
 ### [recap](https://github.com/njpastrone/recap)
-Small CLI I built recently — scans your git repos for recent branch activity and pipes the context to Claude Code for an AI-powered "here's where you left off" briefing.
+Scans your git repos for recent branch activity and hands the context to Claude Code for a "here's where you left off" briefing.
 
-## More Information
+### [claude-code-switch](https://github.com/njpastrone/claude-code-switch)
+Run multiple Claude Code accounts, with the right account picked automatically per project.
 
-[Portfolio](https://njpastrone.github.io/) | [LinkedIn](https://www.linkedin.com/in/nicolo-pastrone-345120208/) | njpastrone@gmail.com | +1-408-455-1114
+### [agent-cockpit](https://github.com/njpastrone/agent-cockpit)
+A dashboard for keeping track of several coding agents at once. Work in progress.
+
+## Contact
+
+[LinkedIn](https://www.linkedin.com/in/nicolo-pastrone-345120208/) · njpastrone@gmail.com
